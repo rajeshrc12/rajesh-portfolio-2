@@ -30,4 +30,7 @@ input:focus,textarea:focus{
     .contact_form{
         grid-template-columns: 1fr;
     }
+    .contact_container{
+        height: auto;
+    }
 }
