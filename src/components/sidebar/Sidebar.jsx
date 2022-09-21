@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import './sidebar.css';
 const Sidebar = () => {
   const iconSize = 40;
-  const [mobileMenu, setMobileMenu] = useState(true);
+  const [mobileMenu, setMobileMenu] = useState(false);
   return (
 
     <div className={mobileMenu ? "sidebar_container open_sidebar" : "sidebar_container"}>
