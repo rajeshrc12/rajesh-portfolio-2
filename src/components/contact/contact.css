@@ -1,0 +1,33 @@
+.contact_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+    text-align: center;
+}
+.contact_form{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+input,textarea{
+    margin:1rem 0 1rem 0;
+    width:90%;
+    padding: 1rem;
+    border: none;
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+}
+.contact_form_text{
+    margin-top: 1rem;
+}
+input:focus,textarea:focus{
+    outline: none;
+}
+@media screen and (max-width:650px) {
+    .contact_form{
+        grid-template-columns: 1fr;
+    }
+}

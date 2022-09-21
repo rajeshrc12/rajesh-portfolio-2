@@ -1,0 +1,40 @@
+.education_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.education_card{
+    background-color: white;
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+}
+.education_data{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 3rem;
+    margin: 1rem;
+}
+.timeline{
+    position: relative;
+    border-left: .1rem solid red;
+    padding: 1.5rem 1.5rem 1.5rem 2rem;
+    margin-left: 2rem;
+}
+.timeline_icon{
+    background-color: white;
+    position: absolute;
+    top: 1.5rem;
+    left: -1.2rem;
+}
+@media screen and (max-width:650px) {
+    .education_data{
+        grid-template-columns: 100%;
+        width: 90%;
+        row-gap: 2rem;
+    }
+    .education_container{
+        height: auto;
+    }
+}
