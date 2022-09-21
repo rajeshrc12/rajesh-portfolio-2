@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rajesh-portfolio-2/static/css/main.2a8df57a.css",
+    "main.css": "/rajesh-portfolio-2/static/css/main.031031fe.css",
     "main.js": "/rajesh-portfolio-2/static/js/main.6048f428.js",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.f1515a459c8850890812.svg",
     "static/media/Simple-Line-Icons.woff?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
@@ -11,11 +11,11 @@
     "static/media/avatar-2.svg": "/rajesh-portfolio-2/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
     "static/media/avatar-1.svg": "/rajesh-portfolio-2/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
     "index.html": "/rajesh-portfolio-2/index.html",
-    "main.2a8df57a.css.map": "/rajesh-portfolio-2/static/css/main.2a8df57a.css.map",
+    "main.031031fe.css.map": "/rajesh-portfolio-2/static/css/main.031031fe.css.map",
     "main.6048f428.js.map": "/rajesh-portfolio-2/static/js/main.6048f428.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a8df57a.css",
+    "static/css/main.031031fe.css",
     "static/js/main.6048f428.js"
   ]
 }
