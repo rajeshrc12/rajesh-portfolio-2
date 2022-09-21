@@ -2,6 +2,7 @@ import React from 'react'
 import './about.css';
 import Image from "../../assets/avatar-2.svg";
 import ProgressBar from "@ramonak/react-progress-bar";
+import Resume from "../../assets/resume.pdf";
 const about = () => {
     return (
         <div name="about" className="about_container">
@@ -11,7 +12,7 @@ const about = () => {
             <div className="about_card">
                 <div className="about_text">
                     I am Rajesh Charhajari, Web Developer From Solapur. I Have Experience of Front End Development Please See My Work.
-                    <div className='about_btn'><button>Download CV</button></div>
+                    <div className='about_btn'><a target="_blank" rel="noreferrer" className='social_link' href={Resume} download="rajesh_charhajari_resume.pdf"> <button>Download CV</button></a></div>
                     
                 </div>
                 <div className="about_skills">
