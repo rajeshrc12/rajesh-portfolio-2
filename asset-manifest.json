@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/rajesh-portfolio-2/static/css/main.2a8df57a.css",
-    "main.js": "/rajesh-portfolio-2/static/js/main.cdf65adb.js",
+    "main.js": "/rajesh-portfolio-2/static/js/main.6048f428.js",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.f1515a459c8850890812.svg",
     "static/media/Simple-Line-Icons.woff?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
+    "static/media/resume.pdf": "/rajesh-portfolio-2/static/media/resume.00d2ff486a3f09332ab3.pdf",
     "static/media/Simple-Line-Icons.eot?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
     "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
     "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/rajesh-portfolio-2/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
@@ -11,10 +12,10 @@
     "static/media/avatar-1.svg": "/rajesh-portfolio-2/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
     "index.html": "/rajesh-portfolio-2/index.html",
     "main.2a8df57a.css.map": "/rajesh-portfolio-2/static/css/main.2a8df57a.css.map",
-    "main.cdf65adb.js.map": "/rajesh-portfolio-2/static/js/main.cdf65adb.js.map"
+    "main.6048f428.js.map": "/rajesh-portfolio-2/static/js/main.6048f428.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8df57a.css",
-    "static/js/main.cdf65adb.js"
+    "static/js/main.6048f428.js"
   ]
 }
